@@ -8,3 +8,5 @@ thank you very much!
 - gitbook上编辑也会触发github上文件的改变
 
 - 但是通过本地push到gitbook上的文件不能触发github更新？？
+
+说白了维护一本书就是维护一个gitbook仓库
